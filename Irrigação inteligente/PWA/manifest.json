@@ -1,0 +1,22 @@
+
+{
+    "short_name": "Plantas Irrigadas",
+    "name": "Jardim Virtual de Plantas Irrigadas",
+    "icons": [
+        {
+            "src": "/images/icons-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/icons-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#00695c",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#00695c"
+}
